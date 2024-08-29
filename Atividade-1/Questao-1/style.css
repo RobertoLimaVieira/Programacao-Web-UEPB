@@ -1,4 +1,31 @@
-* {
-    background: gray;
+:root {
+    font-family: monospace;
+    background-color: #fff;
+    color: #000000;
+    font-size: 2em;
     text-align: center;
+}
+
+header {
+    background-color: bisque;
+    color: blue;
+    text-align: center;
+    padding: 20px;
+}
+
+main p {
+    display: inline;
+    background-color: blueviolet;
+    color: #333;
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+}
+
+footer {
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    padding: 15px;
 }

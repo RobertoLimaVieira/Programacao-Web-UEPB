@@ -1,0 +1,43 @@
+:root {
+    font-family: monospace;
+    background-color: #fff;
+    color: #000000;
+    font-size: 2em;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav a {
+    display: inline-block;
+    width: 20vw;
+    background-color: blanchedalmond;
+    color: brown;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+
+}
+
+nav a:hover {
+    background-color: burlywood;
+    color: #000000;
+}
+
+section .caixa {
+    display: inline-block;
+    width: 45%;
+    margin: 5%;
+    background-color: #f0f0f0;
+    color: #000;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 2px 2px 8px #333;
+    text-align: center;
+}
